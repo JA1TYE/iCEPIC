@@ -1,6 +1,8 @@
 # iCEPIC
 A PIC 12-bit core implementation written in SystemVerilog
 
+Some features have been tested with iCE40 Ultra FPGA.
+
 ## Author
 Ryota Suzuki
 [@JA1TYE](https://twitter.com/JA1TYE)
